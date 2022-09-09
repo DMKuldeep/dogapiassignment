@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dogapiassignment/static/css/main.185428ef.css",
+    "main.js": "/dogapiassignment/static/js/main.ed283ed6.js",
+    "static/js/787.32da897c.chunk.js": "/dogapiassignment/static/js/787.32da897c.chunk.js",
+    "index.html": "/dogapiassignment/index.html",
+    "main.185428ef.css.map": "/dogapiassignment/static/css/main.185428ef.css.map",
+    "main.ed283ed6.js.map": "/dogapiassignment/static/js/main.ed283ed6.js.map",
+    "787.32da897c.chunk.js.map": "/dogapiassignment/static/js/787.32da897c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.185428ef.css",
+    "static/js/main.ed283ed6.js"
+  ]
+}
